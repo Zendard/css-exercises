@@ -1,0 +1,22 @@
+*{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.class1{
+	background-color: pink;
+	font-size: 20px;
+	font-weight: 500;
+}
+.class2{
+	font-size: 30px;
+}
+#id1{
+	color: blue;
+	font-weight: 450;
+	font-size: 40px;
+}
+#id2{
+	background-color: lightgreen;
+	font-weight: bold;
+	font-size: 30px;
+}
